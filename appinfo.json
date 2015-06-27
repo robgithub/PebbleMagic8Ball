@@ -1,0 +1,72 @@
+{
+    "appKeys": {},
+    "capabilities": [
+        ""
+    ],
+    "companyName": "pebble@jumpstation.co.uk",
+    "longName": "magic 8 ball",
+    "projectType": "pebblejs",
+    "resources": {
+        "media": [
+            {
+                "file": "images/menu_icon.png",
+                "menuIcon": true,
+                "name": "IMAGE_MENU_ICON",
+                "type": "png"
+            },
+            {
+                "file": "images/logo_splash.png",
+                "name": "IMAGE_LOGO_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "images/tile_splash.png",
+                "name": "IMAGE_TILE_SPLASH",
+                "type": "png"
+            },
+            {
+                "file": "fonts/UbuntuMono-Regular.ttf",
+                "name": "MONO_FONT_14",
+                "type": "font"
+            },
+            {
+                "file": "images/ballsub3.png",
+                "name": "IMAGES_BALLSUB3_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/ballsub2.png",
+                "name": "IMAGES_BALLSUB2_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/ballsub1.png",
+                "name": "IMAGES_BALLSUB1_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/ballanswer.png",
+                "name": "IMAGES_BALLANSWER_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/ball.png",
+                "name": "IMAGES_BALL_PNG",
+                "type": "png"
+            },
+            {
+                "file": "images/bg.png",
+                "name": "IMAGES_BG_PNG",
+                "type": "png"
+            }
+        ]
+    },
+    "sdkVersion": "3",
+    "shortName": "magic 8 ball",
+    "uuid": "1fc3cf58-57df-42bf-935a-880cf5eb026d",
+    "versionCode": 1,
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
